@@ -1,0 +1,29 @@
+{
+    "appService.showSavePrompt": false,
+    "python.defaultInterpreterPath": "C:\\Users\\Dionisis\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "window.zoomLevel": 2,
+    "[python]": {
+      "editor.formatOnType": true,
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "[csharp]": {
+      "editor.defaultFormatter": "ms-dotnettools.csharp"
+    },
+    "files.exclude": {
+      "**/bin": true,
+      "**/obj": true
+    },
+    "redhat.telemetry.enabled": false,
+    "[xml]": {
+      "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "editor.stickyScroll.enabled": false,
+    "git.confirmSync": false,
+    "workbench.editorAssociations": {
+      "*.db": "default"
+    }
+  }
+  
